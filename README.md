@@ -1,6 +1,6 @@
 #STA 141B Final Project
 ####-- Data crawling and mutiple gene alignment visturalization By Python
-#### Group ?? 
+#### Group 3 
 ## Introduction
 
 Gene alignment is the process of comparing the nucleotide or amino acid sequences of two or more genes to identify similarities and differences between them .Gene alignment can be used to identify evolutionary relationships between different organisms or to analyze the genetic variation within a single organism.And it use full tool for the Evolution and Ecology Biology.
